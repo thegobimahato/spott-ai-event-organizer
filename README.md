@@ -1,0 +1,1 @@
+# Spott - AI Event Organiser with Next JS, Tailwind CSS, Shadcn UI, Clerk & Convex 🔥🔥
